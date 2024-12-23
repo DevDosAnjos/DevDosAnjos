@@ -13,3 +13,5 @@ Atualmente estou cursando Sistemas de Informação e aprofundando meus conhecime
 ## Estatisticas
 
 [![DevDosAnjos GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDosAnjos)](https://github.com/DevDosAnjos/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDosAnjos&layout=compact)](https://github.com/DevDosAnjos/github-readme-stats)
