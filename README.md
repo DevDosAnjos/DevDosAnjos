@@ -12,11 +12,7 @@ Aqui estão algumas coisas sobre mim:
   </div>
 
   ## Ferramentas
-  <div>
-    <img alt = "Nathan-Git" src = "https://img.shields.io/badge/git-%23f14e32?style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt = "Nathan-GitHub" src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    <img alt=  "Nathan-Spring Boot" src="https://img.shields.io/badge/Spring_Boot-00FF7F?style=for-the-badge&logo=Spring%20Boot&logoColor=White">
-  </div>
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle,hibernate,mysql,postgres,rabbitmq,docker,postman,git,github,idea)](https://skillicons.dev)
 
   ## Contato
 
