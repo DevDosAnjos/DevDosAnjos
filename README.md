@@ -1,19 +1,11 @@
-## Olá! Meu nome é Nathan 
+<p align="center">
+  <img src="Banner_Nathan.png" alt="Nathan dos Anjos - Full Stack Developer" width="100%" />
+</p>
 
-Atualmente estou cursando Sistemas de Informação e aprofundando meus conhecimentos em Desenvolvimento Full Stack com Java/JavaScript/TypeScript.
+## Sobre Mim
 
-  ## Linguagens e Ferramentas
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,spring,nestjs,angular,maven,gradle,hibernate,mysql,postgres,nodejs,rabbitmq,docker,postman,git,github)](https://skillicons.dev)
+Estudante de Sistemas de Informação com foco em Desenvolvimento Back-end e Engenharia de Software, com experiência prática no ambiente de tecnologia da TOTVS. Conhecimentos aplicados em APIs REST, autenticação JWT, arquitetura em camadas, microsserviços, Docker e integração contínua (CI/CD), com foco na construção de aplicações organizadas, testáveis e de fácil manutenção.
 
-  ## Contato
+Experiência profissional em Quality Assurance, com atuação em testes funcionais e exploratórios, análise de requisitos, documentação de cenários e identificação de bugs. Essa vivência contribuiu para uma visão mais completa do ciclo de desenvolvimento de software e para uma atuação mais atenta à qualidade, confiabilidade e manutenção das soluções.
 
-  <a href= "mailto:nathang2804@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blanck"></a>
-  <a href= "https://www.linkedin.com/in/nathan-dos-anjos-gon%C3%A7alves-58849424a/" target = "_blank>"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blanck"></a>
-  
-## Estatisticas
-<div style="display: inline_block" align="center" >
-<p><img height="150em" src="https://github-readme-stats.vercel.app/api/?username=DevDosAnjos&style=for-the-badge&show_icons=true&theme=dark&rank_icon=github"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDosAnjos&layout=compact&langs_count=7&theme=dark"/></p>
-</div>
-
-
+Em constante evolução na área de Desenvolvimento Back-end, com interesse em aprofundar conhecimentos em APIs, arquitetura de software e boas práticas de engenharia. Busco oportunidades em Desenvolvimento Back-end nas quais eu possa aplicar minha base técnica, aprender com desafios reais e contribuir para a construção e manutenção de sistemas escaláveis.
